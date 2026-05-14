@@ -3,7 +3,6 @@
 
   - 🎓 Computer Engineering student at Federal University of Ceará (UFC)
   - ⚙️ <strong>Embedded Systems</strong> 
-  - 🌐 <strong>Computer Networks</strong>
 
   ###
 
