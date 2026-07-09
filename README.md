@@ -2,7 +2,8 @@
 <img align="right" width="110" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRvdWozZjhpa2xtZGF6a2Nyc2EyenNtMG05MTNheW9mZ3M1anlwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WZUkE2QlMXQ4JNrjxy/giphy.gif"  />
 
   - 🎓 Computer Engineering student at Federal University of Ceará (UFC)
-  - ⚙️ <strong>Embedded Systems</strong> 
+  - ⚙️ <strong>Embedded Systems</strong>
+  - 💾 <strong>Firmware Developer</strong>
 
   ###
 
@@ -13,20 +14,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 
 <!-- Embedded / Hardware -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
+<img src="./assets/platformio.svg" height="50" alt="PlatformIO" />
 
 <!-- Data Science -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
 
 <!-- Networking / Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+          
 </div>
 
 ###
